@@ -701,6 +701,13 @@
             "address": "0xfffffffff15abf397da76f1dcc1a1604f45126db"
         },
         {
+            "title": "FanteFinance",
+            "code": "Fante",
+            "decimal": 18,
+            "type": "bep20",
+            "address": "0x89a855d2b2bac84ffe90a7e4529ede3c7e81d481"
+        },
+        {
             "title": "FARM Reward Token",
             "code": "FARM",
             "decimal": 18,
