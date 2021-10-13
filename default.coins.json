@@ -2486,6 +2486,13 @@
             "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5"
         },
         {
+            "title": "Binance-Peg SHIBA INU Token",
+            "code": "SHIB",
+            "decimal": 18,
+            "type": "bep20",
+            "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
+        },
+        {
             "title": "Juggernaut DeFi",
             "code": "JGN",
             "decimal": 18,
