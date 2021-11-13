@@ -2266,6 +2266,17 @@
           "funds": []
       },
       {
+          "code": "FANTE",
+          "name": "Fante Finance Token",
+          "categories": ["wallets"],
+          "active": true,
+          "description": "### Project Description\n\nFANTE FINANCE Token is based on BEP-20 token standard following the BINANCE Blockchain. FANTE FINANCE TOKEN is designed to power different platforms in the FANTE FINANCE Ecosystem, which are FANTE DYNAMITE ACADEMY, FANTE MARKET, FANTE HOUSING, FANTE PLAY, FANTE FARM, FANTE HOSPITALITY/TOURISM AND FANTE PAY being the dynamite academy, e-commerce platform, crypto-real estate, farm, hospitality/tourism and digital wallet respectively. It is these fundamental components that gives life to the FANTE FINANCE Ecosystem. \nAnyone can subscribe and do business on any of the platforms by purchasing FANTE FINANCE TOKEN in the market. With growing number of users and dealers using the platforms, there will be a high demand for the token. As the number of FANTE FINANCE tokens are limited, higher demand with a shorter supply and development of FANTE FINANCE decentralized ecosystem will continuously result to appreciation of FANTE FINANCE TOKEN value in the market. \n Scurdex Wallet is the wallet of Fante Finance Token",
+          "links": { "website": "https://fantefinance.com/", "whitepaper": "", "twitter": "", "wallet": "https://play.google.com/store/apps/details?id=com.nichie.curdex", "telegram": "https://t.me/fantefinance" },
+          "rating": "",
+          "id": "bep20|0x89a855d2b2bac84ffe90a7e4529ede3c7e81d481",
+          "funds": []
+      },
+      {
           "code": "FARM",
           "name": "Harvest Finance",
           "categories": ["yield_aggregators"],
