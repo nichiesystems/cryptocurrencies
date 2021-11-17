@@ -18870,6 +18870,14 @@
         "platforms": {}
     },
     {
+        "id": "fantefinance",
+        "symbol": "fante",
+        "name": "FanteFinance",
+        "platforms": {
+            "binance-smart-chain": "0x89a855D2b2bAC84Ffe90A7e4529ede3c7E81d481"
+        }
+    },
+    {
         "id": "fantom",
         "symbol": "ftm",
         "name": "Fantom",
