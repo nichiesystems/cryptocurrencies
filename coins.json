@@ -2267,11 +2267,20 @@
       },
       {
           "code": "FANTE",
-          "name": "Fante Finance Token",
+          "name": "FanteFinance Token",
           "categories": ["wallets"],
           "active": true,
-          "description": "### Project Description\n\nFANTE FINANCE Token is based on BEP-20 token standard following the BINANCE Blockchain. FANTE FINANCE TOKEN is designed to power different platforms in the FANTE FINANCE Ecosystem, which are FANTE DYNAMITE ACADEMY, FANTE MARKET, FANTE HOUSING, FANTE PLAY, FANTE FARM, FANTE HOSPITALITY/TOURISM AND FANTE PAY being the dynamite academy, e-commerce platform, crypto-real estate, farm, hospitality/tourism and digital wallet respectively. \nScurdex Wallet is the wallet of Fante Finance Token.",
-          "links": { "website": "https://fantefinance.com/", "whitepaper": "", "twitter": "", "buy": "https://ravesandbox.flutterwave.com/pay/scurdex", "telegram": "https://t.me/fantefinance" },
+          "platform": { "name": "", "address": "", "type": "" },
+          "description": "",
+          "links": {
+              "website": "",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "",
+              "github": "",
+              "reddit": "",
+              "telegram": ""
+          },
           "rating": "",
           "id": "bep20|0x89a855d2b2bac84ffe90a7e4529ede3c7e81d481",
           "funds": []
